@@ -7,6 +7,7 @@
  nil t t t t nil nil nil nil nil t)
 
 (quail-define-rules
+ ("`" ?ё)
  ("q" ["й"])  ("Q" ["Й"])
  ("w" ["ц"])  ("W" ["Ц"])
  ("f" ["у"])  ("F" ["У"])
